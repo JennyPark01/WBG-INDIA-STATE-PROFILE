@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(where:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(cmd /c \"dir /s /b \"\"C:\\\\Program Files\\\\R\\\\Rscript.exe\"\" 2>nul\")",
+      "Bash(cmd /c \"dir /s /b \"\"C:\\\\Program Files \\(x86\\)\\\\R\\\\Rscript.exe\"\" 2>nul\")",
+      "Bash(cmd /c:*)"
+    ]
+  }
+}

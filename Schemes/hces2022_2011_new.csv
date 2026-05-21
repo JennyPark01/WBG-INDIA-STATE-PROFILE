@@ -1,0 +1,1333 @@
+﻿group,year,sector,state,state_sec_quint,state_quint,sec_quint,nat_quint,Quintile_Overall,food_pds_subs,kerosene_pds_subs,food_pds_free,gov_school_free,pvt_school_free,lpg_subs,elec_free,fees_waived,pmjay_ben,pmjay_ben_avail,durables_free,laptop2,tablet2,mobile2,bicycle2,other_items2,books,stationary,schoolbag,clothing,footwear,type,level
+sector,2011,urban,,,,,,99,0.53,0.78,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,urban,,,,1,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,urban,,,,2,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,urban,,,,3,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,urban,,,,4,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,urban,,,,5,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector,2011,rural,,,,,,99,0.33,0.35,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,rural,,,,1,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,rural,,,,2,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,rural,,,,3,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,rural,,,,4,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_sec_quint,2011,rural,,,,5,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+india_all,2011,All,,,,,,99,0.47,0.66,,,,,,,,,,,,,,,,,,,,,
+nat_quint,2011,All,,,,,1,1,1,1,,,,,,,,,,,,,,,,,,,,,
+nat_quint,2011,All,,,,,2,2,1,1,,,,,,,,,,,,,,,,,,,,,
+nat_quint,2011,All,,,,,3,3,0,1,,,,,,,,,,,,,,,,,,,,,
+nat_quint,2011,All,,,,,4,4,0,1,,,,,,,,,,,,,,,,,,,,,
+nat_quint,2011,All,,,,,5,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Andaman & Nicobar Islands,,,,,99,0.93,0.49,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andaman & Nicobar Islands,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andaman & Nicobar Islands,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andaman & Nicobar Islands,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andaman & Nicobar Islands,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andaman & Nicobar Islands,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Andaman & Nicobar Islands,,,,,99,0.87,0.18,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andaman & Nicobar Islands,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andaman & Nicobar Islands,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andaman & Nicobar Islands,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andaman & Nicobar Islands,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andaman & Nicobar Islands,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Andaman & Nicobar Islands,,,,,99,0.91,0.38,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andaman & Nicobar Islands,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andaman & Nicobar Islands,,2,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andaman & Nicobar Islands,,3,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andaman & Nicobar Islands,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andaman & Nicobar Islands,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Andhra Pradesh,,,,,99,0.91,0.85,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andhra Pradesh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andhra Pradesh,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andhra Pradesh,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andhra Pradesh,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Andhra Pradesh,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Andhra Pradesh,,,,,99,0.61,0.44,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andhra Pradesh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andhra Pradesh,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andhra Pradesh,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andhra Pradesh,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Andhra Pradesh,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Andhra Pradesh,,,,,99,0.83,0.74,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andhra Pradesh,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andhra Pradesh,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andhra Pradesh,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andhra Pradesh,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Andhra Pradesh,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Arunachal Pradesh,,,,,99,0.6,0.26,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Arunachal Pradesh,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Arunachal Pradesh,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Arunachal Pradesh,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Arunachal Pradesh,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Arunachal Pradesh,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Arunachal Pradesh,,,,,99,0.61,0.15,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Arunachal Pradesh,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Arunachal Pradesh,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Arunachal Pradesh,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Arunachal Pradesh,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Arunachal Pradesh,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Arunachal Pradesh,,,,,99,0.6,0.24,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Arunachal Pradesh,,1,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Arunachal Pradesh,,2,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Arunachal Pradesh,,3,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Arunachal Pradesh,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Arunachal Pradesh,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Assam,,,,,99,0.77,0.79,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Assam,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Assam,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Assam,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Assam,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Assam,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Assam,,,,,99,0.51,0.49,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Assam,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Assam,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Assam,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Assam,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Assam,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Assam,,,,,99,0.74,0.76,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Assam,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Assam,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Assam,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Assam,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Assam,,5,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Bihar,,,,,99,0.46,0.9,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Bihar,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Bihar,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Bihar,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Bihar,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Bihar,5,,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Bihar,,,,,99,0.24,0.56,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Bihar,1,,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Bihar,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Bihar,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Bihar,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Bihar,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Bihar,,,,,99,0.43,0.86,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Bihar,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Bihar,,2,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Bihar,,3,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Bihar,,4,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Bihar,,5,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Chandigarh,,,,,99,0.08,0.06,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chandigarh,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chandigarh,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chandigarh,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chandigarh,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chandigarh,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Chandigarh,,,,,99,0.24,0.12,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chandigarh,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chandigarh,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chandigarh,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chandigarh,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chandigarh,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Chandigarh,,,,,99,0.22,0.11,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chandigarh,,1,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chandigarh,,2,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chandigarh,,3,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chandigarh,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chandigarh,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Chhattisgarh,,,,,99,0.7,0.87,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chhattisgarh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chhattisgarh,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chhattisgarh,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chhattisgarh,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Chhattisgarh,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Chhattisgarh,,,,,99,0.5,0.53,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chhattisgarh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chhattisgarh,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chhattisgarh,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chhattisgarh,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Chhattisgarh,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Chhattisgarh,,,,,99,0.65,0.79,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chhattisgarh,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chhattisgarh,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chhattisgarh,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chhattisgarh,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Chhattisgarh,,5,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Daman & Diu & D & N Haveli,,,,,99,0.46,0.59,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Daman & Diu & D & N Haveli,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Daman & Diu & D & N Haveli,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Daman & Diu & D & N Haveli,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Daman & Diu & D & N Haveli,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Daman & Diu & D & N Haveli,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Daman & Diu & D & N Haveli,,,,,99,0.22,0.12,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Daman & Diu & D & N Haveli,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Daman & Diu & D & N Haveli,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Daman & Diu & D & N Haveli,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Daman & Diu & D & N Haveli,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Daman & Diu & D & N Haveli,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Daman & Diu & D & N Haveli,,,,,99,0.36,0.39,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Daman & Diu & D & N Haveli,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Daman & Diu & D & N Haveli,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Daman & Diu & D & N Haveli,,3,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Daman & Diu & D & N Haveli,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Daman & Diu & D & N Haveli,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Delhi,,,,,99,0.17,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Delhi,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Delhi,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Delhi,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Delhi,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Delhi,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Delhi,,,,,99,0.14,0.03,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Delhi,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Delhi,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Delhi,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Delhi,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Delhi,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Delhi,,,,,99,0.14,0.03,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Delhi,,1,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Delhi,,2,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Delhi,,3,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Delhi,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Delhi,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Goa,,,,,99,0.75,0.53,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Goa,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Goa,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Goa,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Goa,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Goa,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Goa,,,,,99,0.52,0.31,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Goa,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Goa,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Goa,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Goa,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Goa,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Goa,,,,,99,0.64,0.43,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Goa,,1,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Goa,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Goa,,3,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Goa,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Goa,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Gujarat,,,,,99,0.38,0.68,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Gujarat,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Gujarat,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Gujarat,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Gujarat,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Gujarat,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Gujarat,,,,,99,0.08,0.13,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Gujarat,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Gujarat,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Gujarat,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Gujarat,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Gujarat,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Gujarat,,,,,99,0.26,0.46,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Gujarat,,1,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Gujarat,,2,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Gujarat,,3,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Gujarat,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Gujarat,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Haryana,,,,,99,0.2,0.18,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Haryana,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Haryana,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Haryana,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Haryana,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Haryana,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Haryana,,,,,99,0.11,0.05,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Haryana,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Haryana,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Haryana,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Haryana,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Haryana,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Haryana,,,,,99,0.18,0.14,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Haryana,,1,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Haryana,,2,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Haryana,,3,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Haryana,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Haryana,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Himachal Pradesh,,,,,99,0.94,0.33,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Himachal Pradesh,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Himachal Pradesh,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Himachal Pradesh,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Himachal Pradesh,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Himachal Pradesh,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Himachal Pradesh,,,,,99,0.63,0.1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Himachal Pradesh,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Himachal Pradesh,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Himachal Pradesh,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Himachal Pradesh,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Himachal Pradesh,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Himachal Pradesh,,,,,99,0.91,0.3,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Himachal Pradesh,,1,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Himachal Pradesh,,2,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Himachal Pradesh,,3,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Himachal Pradesh,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Himachal Pradesh,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Jammu & Kashmir,,,,,99,0.94,0.66,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jammu & Kashmir,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jammu & Kashmir,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jammu & Kashmir,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jammu & Kashmir,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jammu & Kashmir,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Jammu & Kashmir,,,,,99,0.86,0.33,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jammu & Kashmir,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jammu & Kashmir,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jammu & Kashmir,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jammu & Kashmir,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jammu & Kashmir,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Jammu & Kashmir,,,,,99,0.92,0.58,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jammu & Kashmir,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jammu & Kashmir,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jammu & Kashmir,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jammu & Kashmir,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jammu & Kashmir,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Jharkhand,,,,,99,0.35,0.66,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jharkhand,1,,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jharkhand,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jharkhand,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jharkhand,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Jharkhand,5,,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Jharkhand,,,,,99,0.07,0.26,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jharkhand,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jharkhand,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jharkhand,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jharkhand,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Jharkhand,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Jharkhand,,,,,99,0.29,0.57,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jharkhand,,1,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jharkhand,,2,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jharkhand,,3,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jharkhand,,4,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Jharkhand,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Karnataka,,,,,99,0.77,0.81,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Karnataka,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Karnataka,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Karnataka,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Karnataka,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Karnataka,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Karnataka,,,,,99,0.41,0.33,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Karnataka,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Karnataka,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Karnataka,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Karnataka,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Karnataka,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Karnataka,,,,,99,0.65,0.65,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Karnataka,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Karnataka,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Karnataka,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Karnataka,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Karnataka,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Kerala,,,,,99,0.85,0.79,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Kerala,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Kerala,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Kerala,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Kerala,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Kerala,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Kerala,,,,,99,0.73,0.63,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Kerala,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Kerala,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Kerala,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Kerala,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Kerala,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Kerala,,,,,99,0.82,0.75,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Kerala,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Kerala,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Kerala,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Kerala,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Kerala,,5,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Ladakh,,,,,99,0.99,0.84,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Ladakh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Ladakh,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Ladakh,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Ladakh,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Ladakh,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Ladakh,,,,,99,0.94,0.65,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Ladakh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Ladakh,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Ladakh,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Ladakh,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Ladakh,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Ladakh,,,,,99,0.98,0.81,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Ladakh,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Ladakh,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Ladakh,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Ladakh,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Ladakh,,5,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Lakshadweep,,,,,99,0.99,0.99,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Lakshadweep,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Lakshadweep,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Lakshadweep,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Lakshadweep,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Lakshadweep,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Lakshadweep,,,,,99,0.96,0.83,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Lakshadweep,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Lakshadweep,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Lakshadweep,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Lakshadweep,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Lakshadweep,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Lakshadweep,,,,,99,0.97,0.91,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Lakshadweep,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Lakshadweep,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Lakshadweep,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Lakshadweep,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Lakshadweep,,5,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Madhya Pradesh,,,,,99,0.42,0.74,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Madhya Pradesh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Madhya Pradesh,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Madhya Pradesh,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Madhya Pradesh,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Madhya Pradesh,5,,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Madhya Pradesh,,,,,99,0.3,0.37,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Madhya Pradesh,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Madhya Pradesh,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Madhya Pradesh,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Madhya Pradesh,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Madhya Pradesh,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Madhya Pradesh,,,,,99,0.39,0.64,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Madhya Pradesh,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Madhya Pradesh,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Madhya Pradesh,,3,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Madhya Pradesh,,4,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Madhya Pradesh,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Maharashtra,,,,,99,0.49,0.67,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Maharashtra,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Maharashtra,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Maharashtra,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Maharashtra,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Maharashtra,5,,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Maharashtra,,,,,99,0.14,0.21,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Maharashtra,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Maharashtra,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Maharashtra,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Maharashtra,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Maharashtra,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Maharashtra,,,,,99,0.33,0.47,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Maharashtra,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Maharashtra,,2,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Maharashtra,,3,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Maharashtra,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Maharashtra,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Manipur,,,,,99,0.11,0.36,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Manipur,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Manipur,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Manipur,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Manipur,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Manipur,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Manipur,,,,,99,0.07,0.3,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Manipur,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Manipur,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Manipur,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Manipur,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Manipur,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Manipur,,,,,99,0.1,0.34,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Manipur,,1,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Manipur,,2,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Manipur,,3,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Manipur,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Manipur,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Meghalaya,,,,,99,0.78,0.59,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Meghalaya,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Meghalaya,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Meghalaya,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Meghalaya,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Meghalaya,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Meghalaya,,,,,99,0.39,0.1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Meghalaya,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Meghalaya,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Meghalaya,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Meghalaya,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Meghalaya,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Meghalaya,,,,,99,0.7,0.5,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Meghalaya,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Meghalaya,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Meghalaya,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Meghalaya,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Meghalaya,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Mizoram,,,,,99,0.98,0.48,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Mizoram,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Mizoram,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Mizoram,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Mizoram,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Mizoram,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Mizoram,,,,,99,0.95,0.41,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Mizoram,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Mizoram,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Mizoram,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Mizoram,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Mizoram,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Mizoram,,,,,99,0.97,0.44,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Mizoram,,1,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Mizoram,,2,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Mizoram,,3,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Mizoram,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Mizoram,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Nagaland,,,,,99,0.17,0.07,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Nagaland,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Nagaland,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Nagaland,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Nagaland,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Nagaland,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Nagaland,,,,,99,0.11,0.03,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Nagaland,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Nagaland,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Nagaland,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Nagaland,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Nagaland,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Nagaland,,,,,99,0.15,0.06,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Nagaland,,1,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Nagaland,,2,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Nagaland,,3,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Nagaland,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Nagaland,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Odisha,,,,,99,0.68,0.8,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Odisha,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Odisha,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Odisha,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Odisha,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Odisha,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Odisha,,,,,99,0.36,0.44,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Odisha,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Odisha,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Odisha,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Odisha,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Odisha,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Odisha,,,,,99,0.63,0.75,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Odisha,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Odisha,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Odisha,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Odisha,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Odisha,,5,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Puducherry,,,,,99,0.8,0.32,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Puducherry,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Puducherry,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Puducherry,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Puducherry,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Puducherry,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Puducherry,,,,,99,0.82,0.23,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Puducherry,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Puducherry,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Puducherry,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Puducherry,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Puducherry,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Puducherry,,,,,99,0.81,0.26,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Puducherry,,1,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Puducherry,,2,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Puducherry,,3,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Puducherry,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Puducherry,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Punjab,,,,,99,0.24,0.19,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Punjab,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Punjab,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Punjab,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Punjab,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Punjab,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Punjab,,,,,99,0.09,0.05,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Punjab,1,,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Punjab,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Punjab,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Punjab,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Punjab,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Punjab,,,,,99,0.19,0.14,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Punjab,,1,,,1,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Punjab,,2,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Punjab,,3,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Punjab,,4,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Punjab,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Rajasthan,,,,,99,0.28,0.79,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Rajasthan,1,,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Rajasthan,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Rajasthan,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Rajasthan,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Rajasthan,5,,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Rajasthan,,,,,99,0.21,0.24,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Rajasthan,1,,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Rajasthan,2,,,,2,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Rajasthan,3,,,,3,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Rajasthan,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Rajasthan,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Rajasthan,,,,,99,0.27,0.66,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Rajasthan,,1,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Rajasthan,,2,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Rajasthan,,3,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Rajasthan,,4,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Rajasthan,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Sikkim,,,,,99,0.79,0.64,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Sikkim,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Sikkim,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Sikkim,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Sikkim,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Sikkim,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Sikkim,,,,,99,0.57,0.06,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Sikkim,1,,,,1,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Sikkim,2,,,,2,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Sikkim,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Sikkim,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Sikkim,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Sikkim,,,,,99,0.75,0.53,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Sikkim,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Sikkim,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Sikkim,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Sikkim,,4,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Sikkim,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Tamil Nadu,,,,,99,0.97,0.77,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tamil Nadu,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tamil Nadu,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tamil Nadu,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tamil Nadu,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tamil Nadu,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Tamil Nadu,,,,,99,0.88,0.41,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tamil Nadu,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tamil Nadu,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tamil Nadu,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tamil Nadu,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tamil Nadu,5,,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Tamil Nadu,,,,,99,0.93,0.61,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tamil Nadu,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tamil Nadu,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tamil Nadu,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tamil Nadu,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tamil Nadu,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Telangana,,,,,99,0.91,0.81,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Telangana,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Telangana,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Telangana,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Telangana,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Telangana,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Telangana,,,,,99,0.48,0.31,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Telangana,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Telangana,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Telangana,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Telangana,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Telangana,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Telangana,,,,,99,0.74,0.61,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Telangana,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Telangana,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Telangana,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Telangana,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Telangana,,5,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Tripura,,,,,99,0.97,0.97,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tripura,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tripura,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tripura,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tripura,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Tripura,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Tripura,,,,,99,0.86,0.76,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tripura,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tripura,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tripura,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tripura,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Tripura,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Tripura,,,,,99,0.95,0.94,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tripura,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tripura,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tripura,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tripura,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Tripura,,5,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Uttar Pradesh,,,,,99,0.28,0.87,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttar Pradesh,1,,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttar Pradesh,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttar Pradesh,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttar Pradesh,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttar Pradesh,5,,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Uttar Pradesh,,,,,99,0.2,0.55,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttar Pradesh,1,,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttar Pradesh,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttar Pradesh,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttar Pradesh,4,,,,4,0,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttar Pradesh,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Uttar Pradesh,,,,,99,0.27,0.8,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttar Pradesh,,1,,,1,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttar Pradesh,,2,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttar Pradesh,,3,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttar Pradesh,,4,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttar Pradesh,,5,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,Uttrakhand,,,,,99,0.9,0.78,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttrakhand,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttrakhand,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttrakhand,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttrakhand,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,Uttrakhand,5,,,,5,1,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,Uttrakhand,,,,,99,0.68,0.38,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttrakhand,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttrakhand,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttrakhand,3,,,,3,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttrakhand,4,,,,4,1,0,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,Uttrakhand,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,Uttrakhand,,,,,99,0.84,0.68,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttrakhand,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttrakhand,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttrakhand,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttrakhand,,4,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,Uttrakhand,,5,,,5,1,0,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,urban,West Bengal,,,,,99,0.53,0.91,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,West Bengal,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,West Bengal,2,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,West Bengal,3,,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,West Bengal,4,,,,4,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,urban,West Bengal,5,,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+sector_state,2011,rural,West Bengal,,,,,99,0.28,0.68,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,West Bengal,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,West Bengal,2,,,,2,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,West Bengal,3,,,,3,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,West Bengal,4,,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_sector_quint,2011,rural,West Bengal,5,,,,5,0,0,,,,,,,,,,,,,,,,,,,,,
+state,2011,All,West Bengal,,,,,99,0.46,0.85,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,West Bengal,,1,,,1,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,West Bengal,,2,,,2,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,West Bengal,,3,,,3,1,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,West Bengal,,4,,,4,0,1,,,,,,,,,,,,,,,,,,,,,
+state_quint,2011,All,West Bengal,,5,,,5,0,1,,,,,,,,,,,,,,,,,,,,,
+,2022,All,,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,All,,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,All,,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,All,,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,All,,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,All,,,,,,99,0.42,0.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,National
+,2022,rural,,,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,rural,,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,rural,,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,rural,,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,rural,,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,rural,,,,,,99,0.46,0.06,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,National
+,2022,urban,,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,urban,,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,urban,,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,urban,,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,urban,,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,National
+,2022,urban,,,,,,99,0.32,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,National
+,2022,All,Andaman & Nicobar Islands,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andaman & Nicobar Islands,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andaman & Nicobar Islands,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andaman & Nicobar Islands,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andaman & Nicobar Islands,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andaman & Nicobar Islands,,,,,99,0.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Andaman & Nicobar Islands,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andaman & Nicobar Islands,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andaman & Nicobar Islands,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andaman & Nicobar Islands,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andaman & Nicobar Islands,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andaman & Nicobar Islands,,,,,99,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Andaman & Nicobar Islands,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andaman & Nicobar Islands,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andaman & Nicobar Islands,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andaman & Nicobar Islands,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andaman & Nicobar Islands,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andaman & Nicobar Islands,,,,,99,0.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Andhra Pradesh,,,,,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andhra Pradesh,,,,,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andhra Pradesh,,,,,3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andhra Pradesh,,,,,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andhra Pradesh,,,,,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Andhra Pradesh,,,,,99,0.81,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Andhra Pradesh,,,,,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andhra Pradesh,,,,,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andhra Pradesh,,,,,3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andhra Pradesh,,,,,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andhra Pradesh,,,,,5,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Andhra Pradesh,,,,,99,0.87,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Andhra Pradesh,,,,,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andhra Pradesh,,,,,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andhra Pradesh,,,,,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andhra Pradesh,,,,,4,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andhra Pradesh,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Andhra Pradesh,,,,,99,0.69,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Arunachal Pradesh,,,,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Arunachal Pradesh,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Arunachal Pradesh,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Arunachal Pradesh,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Arunachal Pradesh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Arunachal Pradesh,,,,,99,0.54,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Arunachal Pradesh,,,,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Arunachal Pradesh,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Arunachal Pradesh,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Arunachal Pradesh,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Arunachal Pradesh,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Arunachal Pradesh,,,,,99,0.58,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Arunachal Pradesh,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Arunachal Pradesh,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Arunachal Pradesh,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Arunachal Pradesh,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Arunachal Pradesh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Arunachal Pradesh,,,,,99,0.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Assam,,,,,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Assam,,,,,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Assam,,,,,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Assam,,,,,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Assam,,,,,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Assam,,,,,99,0.06,0.04,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,All,State
+,2022,rural,Assam,,,,,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Assam,,,,,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Assam,,,,,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Assam,,,,,4,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Assam,,,,,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Assam,,,,,99,0.06,0.04,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,All,State
+,2022,urban,Assam,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Assam,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Assam,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Assam,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Assam,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Assam,,,,,99,0.02,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Bihar,,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Bihar,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Bihar,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Bihar,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Bihar,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Bihar,,,,,99,0.43,0.12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Bihar,,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Bihar,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Bihar,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Bihar,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Bihar,,,,,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Bihar,,,,,99,0.44,0.12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Bihar,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Bihar,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Bihar,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Bihar,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Bihar,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Bihar,,,,,99,0.3,0.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Chandigarh,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chandigarh,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chandigarh,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chandigarh,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chandigarh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chandigarh,,,,,99,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Chandigarh,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chandigarh,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chandigarh,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chandigarh,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chandigarh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chandigarh,,,,,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Chandigarh,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chandigarh,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chandigarh,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chandigarh,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chandigarh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chandigarh,,,,,99,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Chattisgarh,,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chattisgarh,,,,,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chattisgarh,,,,,3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chattisgarh,,,,,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chattisgarh,,,,,5,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Chattisgarh,,,,,99,0.89,0.07,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Chattisgarh,,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chattisgarh,,,,,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chattisgarh,,,,,3,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chattisgarh,,,,,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chattisgarh,,,,,5,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Chattisgarh,,,,,99,0.92,0.08,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Chattisgarh,,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chattisgarh,,,,,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chattisgarh,,,,,3,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chattisgarh,,,,,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chattisgarh,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Chattisgarh,,,,,99,0.74,0.02,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Dadra Nagar Haveli & Diu Daman,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Dadra Nagar Haveli & Diu Daman,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Dadra Nagar Haveli & Diu Daman,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Dadra Nagar Haveli & Diu Daman,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Dadra Nagar Haveli & Diu Daman,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Dadra Nagar Haveli & Diu Daman,,,,,99,0.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Dadra Nagar Haveli & Diu Daman,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Dadra Nagar Haveli & Diu Daman,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Dadra Nagar Haveli & Diu Daman,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Dadra Nagar Haveli & Diu Daman,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Dadra Nagar Haveli & Diu Daman,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Dadra Nagar Haveli & Diu Daman,,,,,99,0.36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Dadra Nagar Haveli & Diu Daman,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Dadra Nagar Haveli & Diu Daman,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Dadra Nagar Haveli & Diu Daman,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Dadra Nagar Haveli & Diu Daman,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Dadra Nagar Haveli & Diu Daman,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Dadra Nagar Haveli & Diu Daman,,,,,99,0.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Delhi,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Delhi,,,,,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Delhi,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Delhi,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Delhi,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Delhi,,,,,99,0.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Delhi,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Delhi,,,,,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Delhi,,,,,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Delhi,,,,,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Delhi,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Delhi,,,,,99,0.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Delhi,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Delhi,,,,,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Delhi,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Delhi,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Delhi,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Delhi,,,,,99,0.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Goa,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Goa,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Goa,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Goa,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Goa,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Goa,,,,,99,0.62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Goa,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Goa,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Goa,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Goa,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Goa,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Goa,,,,,99,0.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Goa,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Goa,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Goa,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Goa,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Goa,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Goa,,,,,99,0.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Gujarat,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Gujarat,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Gujarat,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Gujarat,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Gujarat,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Gujarat,,,,,99,0.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Gujarat,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Gujarat,,,,,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Gujarat,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Gujarat,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Gujarat,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Gujarat,,,,,99,0.66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Gujarat,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Gujarat,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Gujarat,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Gujarat,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Gujarat,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Gujarat,,,,,99,0.23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Haryana,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Haryana,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Haryana,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Haryana,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Haryana,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Haryana,,,,,99,0.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Haryana,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Haryana,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Haryana,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Haryana,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Haryana,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Haryana,,,,,99,0.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Haryana,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Haryana,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Haryana,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Haryana,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Haryana,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Haryana,,,,,99,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Himachal Pradesh,,,,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Himachal Pradesh,,,,,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Himachal Pradesh,,,,,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Himachal Pradesh,,,,,4,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Himachal Pradesh,,,,,5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Himachal Pradesh,,,,,99,0.85,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Himachal Pradesh,,,,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Himachal Pradesh,,,,,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Himachal Pradesh,,,,,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Himachal Pradesh,,,,,4,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Himachal Pradesh,,,,,5,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Himachal Pradesh,,,,,99,0.89,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Himachal Pradesh,,,,,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Himachal Pradesh,,,,,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Himachal Pradesh,,,,,3,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Himachal Pradesh,,,,,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Himachal Pradesh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Himachal Pradesh,,,,,99,0.52,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Jammu and Kashmir,,,,,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jammu and Kashmir,,,,,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jammu and Kashmir,,,,,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jammu and Kashmir,,,,,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jammu and Kashmir,,,,,5,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jammu and Kashmir,,,,,99,0.55,0.01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Jammu and Kashmir,,,,,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jammu and Kashmir,,,,,2,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jammu and Kashmir,,,,,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jammu and Kashmir,,,,,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jammu and Kashmir,,,,,5,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jammu and Kashmir,,,,,99,0.59,0.01,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Jammu and Kashmir,,,,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jammu and Kashmir,,,,,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jammu and Kashmir,,,,,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jammu and Kashmir,,,,,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jammu and Kashmir,,,,,5,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jammu and Kashmir,,,,,99,0.42,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Jharkhand,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jharkhand,,,,,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jharkhand,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jharkhand,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jharkhand,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Jharkhand,,,,,99,0.67,0.18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Jharkhand,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jharkhand,,,,,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jharkhand,,,,,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jharkhand,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jharkhand,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Jharkhand,,,,,99,0.73,0.22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Jharkhand,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jharkhand,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jharkhand,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jharkhand,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jharkhand,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Jharkhand,,,,,99,0.4,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Karnataka,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Karnataka,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Karnataka,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Karnataka,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Karnataka,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Karnataka,,,,,99,0.03,0.01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Karnataka,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Karnataka,,,,,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Karnataka,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Karnataka,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Karnataka,,,,,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Karnataka,,,,,99,0.03,0.01,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Karnataka,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Karnataka,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Karnataka,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Karnataka,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Karnataka,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Karnataka,,,,,99,0.03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Kerala,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Kerala,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Kerala,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Kerala,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Kerala,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Kerala,,,,,99,0.81,0.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Kerala,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Kerala,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Kerala,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Kerala,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Kerala,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Kerala,,,,,99,0.86,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Kerala,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Kerala,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Kerala,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Kerala,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Kerala,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Kerala,,,,,99,0.74,0.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Ladakh,,,,,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Ladakh,,,,,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Ladakh,,,,,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Ladakh,,,,,4,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Ladakh,,,,,5,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Ladakh,,,,,99,0.86,0.35,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Ladakh,,,,,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Ladakh,,,,,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Ladakh,,,,,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Ladakh,,,,,4,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Ladakh,,,,,5,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Ladakh,,,,,99,0.87,0.39,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Ladakh,,,,,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Ladakh,,,,,2,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Ladakh,,,,,3,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Ladakh,,,,,4,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Ladakh,,,,,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Ladakh,,,,,99,0.77,0.14,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Lakshadweep,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,quintile,State
+,2022,All,Lakshadweep,,,,,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Lakshadweep,,,,,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Lakshadweep,,,,,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Lakshadweep,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Lakshadweep,,,,,99,0.87,0.04,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,All,State
+,2022,rural,Lakshadweep,,,,,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,quintile,State
+,2022,rural,Lakshadweep,,,,,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Lakshadweep,,,,,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Lakshadweep,,,,,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Lakshadweep,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Lakshadweep,,,,,99,0.82,0.17,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,All,State
+,2022,urban,Lakshadweep,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,quintile,State
+,2022,urban,Lakshadweep,,,,,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,urban,Lakshadweep,,,,,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,urban,Lakshadweep,,,,,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,urban,Lakshadweep,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Lakshadweep,,,,,99,0.89,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,All,State
+,2022,All,Madhya Pradesh,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Madhya Pradesh,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Madhya Pradesh,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Madhya Pradesh,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Madhya Pradesh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Madhya Pradesh,,,,,99,0.55,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Madhya Pradesh,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Madhya Pradesh,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Madhya Pradesh,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Madhya Pradesh,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Madhya Pradesh,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Madhya Pradesh,,,,,99,0.62,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Madhya Pradesh,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Madhya Pradesh,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Madhya Pradesh,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Madhya Pradesh,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Madhya Pradesh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Madhya Pradesh,,,,,99,0.36,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Maharashtra,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Maharashtra,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Maharashtra,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Maharashtra,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Maharashtra,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Maharashtra,,,,,99,0.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Maharashtra,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Maharashtra,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Maharashtra,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Maharashtra,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Maharashtra,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Maharashtra,,,,,99,0.53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Maharashtra,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Maharashtra,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Maharashtra,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Maharashtra,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Maharashtra,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Maharashtra,,,,,99,0.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Manipur,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Manipur,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Manipur,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Manipur,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Manipur,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Manipur,,,,,99,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Manipur,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Manipur,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Manipur,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Manipur,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Manipur,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Manipur,,,,,99,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Manipur,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Manipur,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Manipur,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Manipur,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Manipur,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Manipur,,,,,99,0.69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Meghalaya,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Meghalaya,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Meghalaya,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Meghalaya,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Meghalaya,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Meghalaya,,,,,99,0.7,0.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Meghalaya,,,,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Meghalaya,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Meghalaya,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Meghalaya,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Meghalaya,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Meghalaya,,,,,99,0.74,0.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Meghalaya,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Meghalaya,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Meghalaya,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Meghalaya,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Meghalaya,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Meghalaya,,,,,99,0.47,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Mizoram,,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Mizoram,,,,,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Mizoram,,,,,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Mizoram,,,,,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Mizoram,,,,,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Mizoram,,,,,99,0.91,0.07,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Mizoram,,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Mizoram,,,,,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Mizoram,,,,,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Mizoram,,,,,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Mizoram,,,,,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Mizoram,,,,,99,0.89,0.09,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Mizoram,,,,,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Mizoram,,,,,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Mizoram,,,,,3,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Mizoram,,,,,4,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Mizoram,,,,,5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Mizoram,,,,,99,0.94,0.05,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Nagaland,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Nagaland,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Nagaland,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Nagaland,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Nagaland,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Nagaland,,,,,99,0.46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Nagaland,,,,,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Nagaland,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Nagaland,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Nagaland,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Nagaland,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Nagaland,,,,,99,0.48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Nagaland,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Nagaland,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Nagaland,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Nagaland,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Nagaland,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Nagaland,,,,,99,0.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Odisha,,,,,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Odisha,,,,,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Odisha,,,,,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Odisha,,,,,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Odisha,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Odisha,,,,,99,0.58,0.07,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Odisha,,,,,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Odisha,,,,,2,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Odisha,,,,,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Odisha,,,,,4,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Odisha,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Odisha,,,,,99,0.62,0.08,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Odisha,,,,,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Odisha,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Odisha,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Odisha,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Odisha,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Odisha,,,,,99,0.39,0.01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Puducherry,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Puducherry,,,,,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Puducherry,,,,,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Puducherry,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Puducherry,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Puducherry,,,,,99,0.14,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Puducherry,,,,,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Puducherry,,,,,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Puducherry,,,,,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Puducherry,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Puducherry,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Puducherry,,,,,99,0.2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Puducherry,,,,,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Puducherry,,,,,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Puducherry,,,,,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Puducherry,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Puducherry,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Puducherry,,,,,99,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Punjab,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Punjab,,,,,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Punjab,,,,,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Punjab,,,,,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Punjab,,,,,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Punjab,,,,,99,0.33,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Punjab,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Punjab,,,,,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Punjab,,,,,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Punjab,,,,,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Punjab,,,,,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Punjab,,,,,99,0.4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Punjab,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Punjab,,,,,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Punjab,,,,,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Punjab,,,,,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Punjab,,,,,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Punjab,,,,,99,0.19,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Rajasthan,,,,,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Rajasthan,,,,,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Rajasthan,,,,,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Rajasthan,,,,,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Rajasthan,,,,,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Rajasthan,,,,,99,0.37,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Rajasthan,,,,,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Rajasthan,,,,,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Rajasthan,,,,,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Rajasthan,,,,,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Rajasthan,,,,,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Rajasthan,,,,,99,0.41,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Rajasthan,,,,,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Rajasthan,,,,,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Rajasthan,,,,,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Rajasthan,,,,,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Rajasthan,,,,,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Rajasthan,,,,,99,0.24,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Sikkim,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Sikkim,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Sikkim,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Sikkim,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Sikkim,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Sikkim,,,,,99,0.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Sikkim,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Sikkim,,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Sikkim,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Sikkim,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Sikkim,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Sikkim,,,,,99,0.51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Sikkim,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Sikkim,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Sikkim,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Sikkim,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Sikkim,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Sikkim,,,,,99,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Tamil Nadu,,,,,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tamil Nadu,,,,,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tamil Nadu,,,,,3,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tamil Nadu,,,,,4,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tamil Nadu,,,,,5,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tamil Nadu,,,,,99,0.9,0.27,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Tamil Nadu,,,,,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tamil Nadu,,,,,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tamil Nadu,,,,,3,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tamil Nadu,,,,,4,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tamil Nadu,,,,,5,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tamil Nadu,,,,,99,0.95,0.4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Tamil Nadu,,,,,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tamil Nadu,,,,,2,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tamil Nadu,,,,,3,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tamil Nadu,,,,,4,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tamil Nadu,,,,,5,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tamil Nadu,,,,,99,0.84,0.12,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Telangana,,,,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Telangana,,,,,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Telangana,,,,,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Telangana,,,,,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Telangana,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Telangana,,,,,99,0.21,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Telangana,,,,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Telangana,,,,,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Telangana,,,,,3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Telangana,,,,,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Telangana,,,,,5,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Telangana,,,,,99,0.25,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Telangana,,,,,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Telangana,,,,,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Telangana,,,,,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Telangana,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Telangana,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Telangana,,,,,99,0.16,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Tripura,,,,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,All,Tripura,,,,,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tripura,,,,,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tripura,,,,,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tripura,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Tripura,,,,,99,0.97,0.49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Tripura,,,,,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,quintile,State
+,2022,rural,Tripura,,,,,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tripura,,,,,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tripura,,,,,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tripura,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Tripura,,,,,99,0.97,0.54,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Tripura,,,,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tripura,,,,,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tripura,,,,,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tripura,,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tripura,,,,,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Tripura,,,,,99,0.94,0.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Uttar Pradesh,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttar Pradesh,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttar Pradesh,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttar Pradesh,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttar Pradesh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttar Pradesh,,,,,99,0.3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Uttar Pradesh,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttar Pradesh,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttar Pradesh,,,,,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttar Pradesh,,,,,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttar Pradesh,,,,,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttar Pradesh,,,,,99,0.31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Uttar Pradesh,,,,,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttar Pradesh,,,,,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttar Pradesh,,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttar Pradesh,,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttar Pradesh,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttar Pradesh,,,,,99,0.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,Uttrakhand,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttrakhand,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttrakhand,,,,,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttrakhand,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttrakhand,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,Uttrakhand,,,,,99,0.34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,Uttrakhand,,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttrakhand,,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttrakhand,,,,,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttrakhand,,,,,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttrakhand,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,Uttrakhand,,,,,99,0.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,Uttrakhand,,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttrakhand,,,,,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttrakhand,,,,,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttrakhand,,,,,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttrakhand,,,,,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,Uttrakhand,,,,,99,0.28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,All,West Bengal,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,West Bengal,,,,,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,West Bengal,,,,,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,West Bengal,,,,,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,West Bengal,,,,,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,All,West Bengal,,,,,99,0.04,0.07,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,rural,West Bengal,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,West Bengal,,,,,2,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,West Bengal,,,,,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,West Bengal,,,,,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,West Bengal,,,,,5,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,rural,West Bengal,,,,,99,0.04,0.08,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State
+,2022,urban,West Bengal,,,,,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,West Bengal,,,,,2,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,West Bengal,,,,,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,West Bengal,,,,,4,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,West Bengal,,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,quintile,State
+,2022,urban,West Bengal,,,,,99,0.04,0.04,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,All,State

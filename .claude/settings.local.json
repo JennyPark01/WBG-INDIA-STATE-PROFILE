@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed:*)",
+      "Bash(Rscript:*)",
+      "Bash(python:*)",
+      "Bash(grep -E \"\\\\.\\(R|html|js|css\\)$\")"
+    ]
+  }
+}
